@@ -1,0 +1,8 @@
+print("Hello world")
+print("1234567890")
+print("   4567   ")
+print("   4567   ")
+print("   4567   ")
+print("   4567   ")
+print("   4567   ")
+print("1234567890")
